@@ -5,19 +5,15 @@
 <a href="https://hozana.lanari.rw">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<br/>
 <a href="https://www.linkedin.com/in/hozana-dusabimana-3896aa2b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<br/>
 <a href="https://discord.com/users/hozana_dusabimana">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<br/>
 <a href="https://github.com/hozana-dusabimana">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=hozana-dusabimana&style=flat-square&color=blue" alt="Profile Views"/>
 
 </div>
