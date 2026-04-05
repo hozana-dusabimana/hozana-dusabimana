@@ -5,12 +5,15 @@
 <a href="https://hozana.lanari.rw">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
+<br/>
 <a href="https://www.linkedin.com/in/hozana-dusabimana-3896aa2b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<br/>
 <a href="https://discord.com/users/hozana_dusabimana">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
+<br/>
 <a href="https://github.com/hozana-dusabimana">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -100,11 +103,17 @@ I'm **Hozana Dusabimana**, a **Full Stack Developer** from Rwanda 🇷🇼
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hozana-dusabimana&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-
+<a href="https://github.com/hozana-dusabimana">
+  <img src="https://img.shields.io/badge/GitHub_Profile-@hozana--dusabimana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hozana-dusabimana&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/hozana-dusabimana?tab=repositories">
+  <img src="https://img.shields.io/badge/Public_Repos-View_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+</a>
+<br/>
+<a href="https://github.com/hozana-dusabimana">
+  <img src="https://img.shields.io/github/followers/hozana-dusabimana?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="GitHub Followers"/>
+</a>
 
 </div>
 
@@ -115,9 +124,9 @@ I'm **Hozana Dusabimana**, a **Full Stack Developer** from Rwanda 🇷🇼
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hozana-dusabimana/hozana-dusabimana/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hozana-dusabimana/hozana-dusabimana/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://github.com/hozana-dusabimana/hozana-dusabimana/blob/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hozana-dusabimana/hozana-dusabimana/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hozana-dusabimana/hozana-dusabimana/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hozana-dusabimana/hozana-dusabimana/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
