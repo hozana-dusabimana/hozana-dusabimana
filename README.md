@@ -26,7 +26,7 @@ I'm **Hozana Dusabimana**, a **Full Stack Developer** from Rwanda 🇷🇼
 
 - 🔭 I'm currently working on exciting full-stack projects
 - 🌱 I'm always learning and exploring new technologies
-- 💬 Ask me about **JavaScript, Python, Flutter, or anything full-stack**
+- 💬 Ask me about **,Golang,JavaScript, Python, Flutter, or anything full-stack**
 - 🌐 Check out my portfolio: [hozana.lanari.rw](https://hozana.lanari.rw)
 
 ---
