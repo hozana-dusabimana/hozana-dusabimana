@@ -63,7 +63,7 @@ I'm **Hozana Dusabimana**, a **Full Stack Developer** from Rwanda 🇷🇼
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=hozana-dusabimana&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=hozana-dusabimana&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak"/>
 
 <br/>
 
