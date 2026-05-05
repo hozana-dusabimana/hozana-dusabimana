@@ -63,10 +63,6 @@ I'm **Hozana Dusabimana**, a **Full Stack Developer** from Rwanda 🇷🇼
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hozana-dusabimana&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<br/>
-
 <a href="https://github.com/hozana-dusabimana">
   <img src="https://img.shields.io/badge/GitHub_Profile-@hozana--dusabimana-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
